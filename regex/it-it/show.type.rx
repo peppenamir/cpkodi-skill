@@ -1,0 +1,1 @@
+(the |)(tv|)(show) (?P<showname>.+)

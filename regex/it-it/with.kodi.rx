@@ -1,0 +1,1 @@
+(the |some|)(?P<kodiItem>.+)(?=\s+(from|with|using|on) kodi)

@@ -1,0 +1,1 @@
+(the |)(album|disc|lp|cd) (?P<album>.+)
